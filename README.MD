@@ -6,8 +6,7 @@
 
 Esta ilustração mostra o site desenvolvido:
 
-![Barbearia gif](https://github.com/felipelopes12/site-barbearia/github/barbearia.gif)
-
+![Barbearia gif](https://github.com/felipelopes12/site-barbearia/barbearia.gif)
 
 ## :rocket: Tecnologias:
 
