@@ -4,8 +4,6 @@
 
 ## :rocket: Projeto:
 
-Este gif mostra o site desenvolvido:
-
 ![Barbearia gif](https://github.com/felipelopes12/site-barbearia/blob/main/barbearia.gif)
 
 ## :rocket: Tecnologias:
