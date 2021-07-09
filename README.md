@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS][css]
 
 
-## 🎫 Front-end Alura?
+## 🎫 Front-end Alura
 
 Desenvolva sites e webapps com HTML, CSS e JavaScript. Aprenda as boas práticas e as últimas versões
 do JavaScript. Estude ferramentas e frameworks do mercado como React, Angular, Webpack, jQuery e mais. Saiba como começar com Front-end.
