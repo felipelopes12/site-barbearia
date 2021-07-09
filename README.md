@@ -1,4 +1,4 @@
-## Barbearia Alura(C#) 
+## Barbearia Alura
 
 <blockquote align="center">“Modelo de site simples de uma barbearia desenvolvida como prática do conteúdo do curso de HTML5 e CSS3 da Alura .”</blockquote>
 
